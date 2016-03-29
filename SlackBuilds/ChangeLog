@@ -1,3 +1,389 @@
+Fri Sep  4 18:56:24 WIB 2015
+grive2: Added
+grive: Removed (no longer build)
+
++--------------------------+
+Sat Aug 15 16:36:54 WIB 2015
+wireshark: Upgraded to 1.12.7
+
++--------------------------+
+Thu Apr 23 23:12:37 WIB 2015
+wireshark: Upgraded to 1.12.4
+
++--------------------------+
+Sun Apr  5 17:05:20 WIB 2015
+EFL: Upgraded to 1.13.2
+elementary: Upgraded to 1.13.2
+evas-generic-loaders: Upgraded to 1.13.2
+enlightenment: Upgraded to 0.19.4
+
++--------------------------+
+Fri Mar 20 11:07:20 WIB 2015
+cups-filters: Upgraded to 1.0.67
+
++--------------------------+
+Wed Feb 11 02:13:45 WIB 2015
+cups: Upgraded to 2.0.2
+
++--------------------------+
+Sun Jan 25 09:47:35 WIB 2015
+EFL: Upgraded to 1.12.3
+elementary: Upgraded to 1.12.3
+
++--------------------------+
+Thu Jan  8 16:56:05 WIB 2015
+wireshark: Upgraded to 1.12.3
+
++--------------------------+
+Mon Nov 24 09:20:22 WIB 2014
+python-EFL: Upgraded to 1.12.0
+
++--------------------------+
+Fri Nov 14 07:56:45 WIB 2014
+EFL: Upgraded to 1.12.0
+elementary: Upgraded to 1.12.0
+emotion-generic-players: Upgraded to 1.12.0
+evas-generic-loaders: Upgraded to 1.12.0
+
++--------------------------+
+Wed Oct 29 16:39:36 WIB 2014
+connman: Upgraded to 1.26
+
++--------------------------+
+Wed Oct 29 15:08:19 WIB 2014
+e_dbus: Upgraded to 1.7.10
+
++--------------------------+
+Wed Oct 29 10:47:56 WIB 2014
+enlightenment: Upgraded to 0.19.1
+
++--------------------------+
+Sat Oct 25 08:36:28 WIB 2014
+EFL: Upgraded to 1.11.4
+elementary: Upgraded to 1.11.4
+
++--------------------------+
+Mon Oct 13 12:16:28 WIB 2014
+terminology: Upgraded to 0.7.0
+
++--------------------------+
+Mon Oct  6 00:16:43 WIB 2014
+cups: Upgraded to 2.0.0
+
++--------------------------+
+Tue Sep 16 09:34:00 WIB 2014
+EFL: Upgraded to 1.11.2
+enlightenment: Upgraded to 0.19.0
+elementary: Upgraded to 1.11.2
+evas-generic-loaders: Upgraded to 1.11.2
+python-EFL: Upgraded to 1.11.0
+
++--------------------------+
+Wed Sep  3 23:03:46 WIB 2014
+EFL: Upgraded to 1.11.
+elementary: Upgraded to 1.11.1
+
++--------------------------+
+Fri Aug 22 07:22:10 WIB 2014
+EFL: Upgraded to 1.11.0
+elementary: Upgraded to 1.11.0
+emotion-generic-players: Upgraded to 1.11.0.
+evas-generic-loaders: Upgraded to 1.11.0.
+python-EFL: Upgraded to 1.10.1.
+
++--------------------------+
+Sun Aug 17 23:45:48 WIB 2014
+cups-filters: Upgraded to 1.0.57
+
++--------------------------+
+Sun Aug  3 21:48:58 WIB 2014
+cups-filters: Upgraded to 1.0.55
+wireshark: Upgraded to 1.12.0
+wxGTK3: Make --enable-stl optional
+
++--------------------------+
+Mon Jul 28 08:45:34 WIB 2014
+dynalogin: Added
+oath-toolkit: Added
+pam: Added
+pam_unix2: Added
+xmlsec: Added
+
++--------------------------+
+Sat Jul 26 20:42:04 WIB 2014
+digikam: Upgraded to 4.1.0
+filezilla: Upgraded to 3.8.1
+guvcview: Upgraded to 1.7.3
+opencv: Upgraded to 2.4.9
+
++--------------------------+
+Sat Jul 26 19:25:10 WIB 2014
+TeamSpeak3: Upgraded to 3.0.15.1
+teamviewer: Upgraded to 9.0.30203
+vte3: Upgraded to 0.36.3
+wxGTK3: Upgraded to 3.0.1
+
++--------------------------+
+Sat Jul 26 19:12:28 WIB 2014
+cups-filters: Upgraded to 1.0.54
+mysql-workbench: Upgraded to 6.1.7
+qpdf: Upgraded to 5.1.2
+
++--------------------------+
+Tue Jul 22 08:40:50 WIB 2014
+EFL: Upgraded to 1.10.2
+elementary: Upgraded to 1.10.2
+
++--------------------------+
+Wed Jul 16 13:22:03 WIB 2014
+cups: Upgraded to 1.7.4
+
++--------------------------+
+Fri Jul  4 04:49:33 WIB 2014
+terminology: Upgraded to 0.6.1
+
++--------------------------+
+Sat Jun 14 16:40:22 WIT 2014
+EFL: Upgraded to 1.10.1
+elementary: Upgraded to 1.10.1
+
++--------------------------+
+Wed Jun 11 06:50:46 WIB 2014
+connman: Upgraded to 1.24
+
++--------------------------+
+Sat May 31 21:33:45 WIB 2014
+python-EFL: Upgraded to 1.10.0
+  This enables econnman to be built against python-EFL
+
++--------------------------+
+Wed May 28 17:19:58 WIB 2014
+cups: Upgraded to 1.7.3
+
++--------------------------+
+Mon May 26 20:45:51 WIB 2014
+EFL: Upgraded to 1.10.0
+connman: Compress manual pages
+elementary: Upgraded to 1.10.0
+emotion-generic-players: Upgraded to 1.10.0
+enlightenment: Fix VERSION in SlackBuild
+evas-generic-loaders: Upgraded to 1.10.0
+terminology: Upgraded to 0.5.1
+python-EFL is broken at this moment
+
++--------------------------+
+Tue May 20 07:04:31 WIB 2014
+wireshark: Upgraded to 1.11.3
+
++--------------------------+
+Sun May 18 19:54:29 WIB 2014
+EFL: Upgraded to 1.9.4
+elementary: Upgraded to 1.9.4
+enlightenment: Upgraded to 0.18.8
+
++--------------------------+
+Wed May 14 00:43:11 WIB 2014
+digiKam: Upgraded to 4.0.0
+
++--------------------------+
+Tue May 13 21:07:25 WIB 2014
+cups-filters: Upgraded to 1.0.53
+
++--------------------------+
+Wed May  7 18:58:32 WIT 2014
+cssutils: Upgraded to 1.0
+ecdsa: Upgraded to 0.11
+hub: Upgraded to 1.12.0
+mysql-workbench: Upgraded to 6.1.4
+libpgf: Upgraded to 6.14.12
+lxml: Upgraded to 3.3.4
+vala: Upgraded to 0.24.0
+vte3: Upgraded to 0.36.1
+
++--------------------------+
+Sat Apr 26 22:48:25 WIT 2014
+teamviewer: Upgraded to 9.0.27891
+
++--------------------------+
+Thu Apr 24 22:47:10 WIT 2014
+netcat-cpi: Added
+
++--------------------------+
+Fri Apr 18 20:14:49 WIT 2014
+aegisub: Upgraded to 3.1.3
+
++--------------------------+
+Tue Apr 15 22:05:33 WIT 2014
+connman: Upgraded to 1.23
+EFL: Upgraded to 1.9.3
+elementary: Upgraded to 1.9.3
+enlightenment: Upgraded to 1.8.7
+
++--------------------------+
+Sat Apr 12 15:59:57 WIT 2014
+cups: Upgraded to 1.7.2
+
++--------------------------+
+Fri Apr  4 23:58:16 WIT 2014
+EFL: Upgraded to 1.9.2
+elementary: Upgraded to 1.9.2
+enlightenment: Upgraded to 1.8.6
+
++--------------------------+
+Tue Mar 25 07:44:26 WIT 2014
+tlp: Upgraded to 0.5
+
++--------------------------+
+Mon Mar 24 22:37:08 WIT 2014
+cups-filters: Upgraded to 1.0.49
+
++--------------------------+
+Sun Mar 16 01:14:19 WIT 2014
+cups-filters: Upgraded to 1.0.47
+
++--------------------------+
+Wed Mar 12 21:19:48 GMT+7 2014
+EFL: Upgraded to 1.9.1
+elementary: Upgraded to 1.9.1
+
++--------------------------+
+Mon Mar 10 09:07:09 GMT+7 2014
+terminology: Upgraded to 0.5.0
+
++--------------------------+
+Thu Mar  6 07:23:09 GMT+7 2014
+python-EFL: Upgraded to 1.9.0
+
++--------------------------+
+Wed Mar  5 21:37:09 GMT+7 2014
+enlightenment: Upgraded to 0.18.5
+
++--------------------------+
+Sat Mar  1 17:30:00 GMT+7 2014
+e18/EFL: Upgraded to 1.9.0
+
++--------------------------+
+Fri Feb 28 09:38:30 GMT+7 2014
+cgit: Upgraded to 0.10.1
+
++--------------------------+
+Sun Feb 23 09:42:57 GMT+7 2014
+cups-filters: Added doinst.sh to handle new config 
+
++--------------------------+
+Sun Feb 23 09:32:22 GMT+7 2014
+qpdf: Upgraded to 5.1.1
+
++--------------------------+
+Sat Feb 22 18:50:44 GMT+7 2014
+cups-filters: Upgraded to 1.0.46
+
++--------------------------+
+Sat Feb 22 16:12:40 GMT+7 2014
+dropbox: Upgraded to 2.6.15
+e17: Removed
+filezilla: Upgraded to 3.7.4.1
+
++--------------------------+
+Fri Feb 21 23:59:12 GMT+7 2014
+cgit: Upgraded to 0.10
+
++--------------------------+
+Tue Feb 18 08:33:15 GMT+7 2014
+enlightenment: Upgraded to 0.18.4
+
++--------------------------+
+Sun Feb 16 01:20:00 GMT+7 2014
+cups-filters: Upgraded to 1.0.45
+
++--------------------------+
+Tue Feb 11 08:28:13 GMT+7 2014
+calibre: Upgraded to 1.23.0
+harfbuzz: Removed (part of Slackware)
+filezilla: Upgraded to 3.7.4
+lxml: Upgraded to 3.3.0
+tlp: Upgraded to 0.4.1
+webp -> libwebp
+
++--------------------------+
+Sat Feb  8 10:56:27 GMT+7 2014
+hub: Added
+
++--------------------------+
+Wed Feb  5 08:39:17 GMT+7 2014
+mysql-workbench: Upgraded to 6.1.1
+
++--------------------------+
+Tue Feb  4 07:40:01 GMT+7 2014
+aegisub: Upgraded to 3.1.2
+connman: Upgraded to 1.21
+
++--------------------------+
+Sat Feb  1 17:09:00 GMT+7 2014
+aegisub: Upgraded to 3.1.1
+ffms2: Renamed from ffms
+
++--------------------------+
+Wed Jan 29 07:48:51 GMT+7 2014
+EFL: Upgraded to 1.8.5
+elementary: Upgraded to 1.8.4
+emotion-generic-players: Upgraded to 1.8.1
+enlightenment: Upgraded to 1.8.3
+
++--------------------------+
+Sun Jan 19 22:55:47 GMT+7 2014
+python-EFL: Upgraded to 1.8.1
+
++--------------------------+
+Thu Jan  9 23:56:50 GMT+7 2014
+cups: Upgraded to 1.7.1
+EFL: Upgraded to 1.8.4
+elementary: Upgraded to 1.8.3
++--------------------------+
+Fri Jan  3 08:41:44 GMT+7 2014
+OpenCV: Upgraded to 2.4.8
+
++--------------------------+
+Fri Dec 27 09:01:09 GMT+7 2013
+enlightenment: Upgraded to 0.18.2
+
++--------------------------+
+Thu Dec 26 10:43:36 GMT+7 2013
+gogglesmm: Added
+
++--------------------------+
+Wed Dec 25 11:26:00 GMT+7 2013
+libgda: Upgraded to 5.2.2
+
++--------------------------+
+Wed Dec 25 09:40:21 GMT+7 2013
+connman: Upgraded to 1.20
+
++--------------------------+
+Tue Dec 24 09:26:33 GMT+7 2013
+wireshark: Upgraded to 1.11.2
+
++--------------------------+
+Tue Dec 24 08:36:35 GMT+7 2013
+enlightenment: Upgraded to 0.18.1
+
++--------------------------+
+Mon Dec 23 20:30:07 GMT+7 2013
+itstool: Removed. 
+  Now part of Slackware
+
++--------------------------+
+Sat Dec 21 20:20:00 GMT+7 2013
+cups-filters: Upgraded to 1.0.43
+EFL: Upgraded to 1.8.3
+elementary: Upgraded to 1.8.2
+enlightenment: Upgraded to 0.18.0
+
++--------------------------+
+Tue Dec 10 22:55:17 GMT+7 2013
+cups-filters: Upgraded to 1.0.42
+econnman: Upgraded to 1.1
+
 +--------------------------+
 Tue Dec 10 08:48:49 GMT+7 2013
 e18/EFL: Upgraded to 1.8.2

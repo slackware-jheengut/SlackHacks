@@ -41,30 +41,30 @@ SLACKBUILD SHORT DESCRIPTION:  QtGStreamer (C++ Bindings for GStreamer)
 SLACKBUILD NAME: TeamSpeak3
 SLACKBUILD LOCATION: ./TeamSpeak3
 SLACKBUILD FILES: README TeamSpeak3.SlackBuild TeamSpeak3.desktop TeamSpeak3.info TeamSpeak3.launcher TeamSpeak3.xpm doinst.sh slack-desc
-SLACKBUILD VERSION: 3.0.13.1
-SLACKBUILD DOWNLOAD: http://dl.4players.de/ts/releases/3.0.13.1/TeamSpeak3-Client-linux_x86-3.0.13.1.run
-SLACKBUILD DOWNLOAD_x86_64: http://dl.4players.de/ts/releases/3.0.13.1/TeamSpeak3-Client-linux_amd64-3.0.13.1.run
-SLACKBUILD MD5SUM: 0ca274f52b0e491cbdce8d4a1767586a
-SLACKBUILD MD5SUM_x86_64: bc3254928298ea1be6e9c2b44ad397c8
+SLACKBUILD VERSION: 3.0.15.1
+SLACKBUILD DOWNLOAD: http://dl.4players.de/ts/releases/3.0.15.1/TeamSpeak3-Client-linux_x86-3.0.15.1.run
+SLACKBUILD DOWNLOAD_x86_64: http://dl.4players.de/ts/releases/3.0.15.1/TeamSpeak3-Client-linux_amd64-3.0.15.1.run
+SLACKBUILD MD5SUM: b5c0616faefff9af2dba1f355747f3f6
+SLACKBUILD MD5SUM_x86_64: 4f177a0bbc04751755b7d35cf1bc445b
 SLACKBUILD SHORT DESCRIPTION:  TeamSpeak3 (Voice Communication)
 
 SLACKBUILD NAME: aegisub
 SLACKBUILD LOCATION: ./aegisub
-SLACKBUILD FILES: README aegisub.SlackBuild aegisub.info slack-desc
-SLACKBUILD VERSION: 3.0.4
-SLACKBUILD DOWNLOAD: http://ftp.aegisub.org/pub/releases/aegisub-3.0.4.tar.xz
+SLACKBUILD FILES: README aegisub.SlackBuild aegisub.info doinst.sh slack-desc
+SLACKBUILD VERSION: 3.1.3
+SLACKBUILD DOWNLOAD: http://ftp.aegisub.org/pub/releases/aegisub-3.1.3.tar.xz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 0f22d63ed4c502f3801795fa623a4f41
+SLACKBUILD MD5SUM: 2203c51be24d943b97cfe2e19a4902b1
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  aegisub (General-purpose subtitle editor)
 
 SLACKBUILD NAME: anjuta
 SLACKBUILD LOCATION: ./anjuta
 SLACKBUILD FILES: README anjuta.SlackBuild anjuta.info doinst.sh slack-desc
-SLACKBUILD VERSION: 3.10.2
-SLACKBUILD DOWNLOAD: http://ftp.gnome.org/pub/GNOME/sources/anjuta/3.10/anjuta-3.10.2.tar.xz
+SLACKBUILD VERSION: 3.12.0
+SLACKBUILD DOWNLOAD: http://ftp.gnome.org/pub/GNOME/sources/anjuta/3.12/anjuta-3.12.0.tar.xz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: b88a472987ab692d5aad3949e348bde9
+SLACKBUILD MD5SUM: 9ab0b5d6b005e7ad45049e66f6ee5f75
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  anjuta (GNOME Integrated Development Environment)
 
@@ -140,21 +140,21 @@ SLACKBUILD SHORT DESCRIPTION:  cairomm (C++ wrapper for the cairo graphics libra
 
 SLACKBUILD NAME: calibre
 SLACKBUILD LOCATION: ./calibre
-SLACKBUILD FILES: README calibre.SlackBuild calibre.info calibre_noqthack.patch slack-desc
-SLACKBUILD VERSION: 1.8.0
-SLACKBUILD DOWNLOAD: http://download.calibre-ebook.com/1.8.0/calibre-1.8.0.tar.xz
+SLACKBUILD FILES: README calibre.SlackBuild calibre.info slack-desc
+SLACKBUILD VERSION: 1.23.0
+SLACKBUILD DOWNLOAD: http://download.calibre-ebook.com/1.23.0/calibre-1.23.0.tar.xz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 7c13fe58eabe1e98a47cfa5d25bebde7
+SLACKBUILD MD5SUM: 3146ce3cdcc0e626ee7f9b8f0bb1be13
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  calibre (e-book library management application)
 
 SLACKBUILD NAME: cgit
 SLACKBUILD LOCATION: ./cgit
 SLACKBUILD FILES: README cgit.SlackBuild cgit.info config/cgit-httpd.conf config/cgit-lighttpd.conf config/cgit.conf config/cgitrc.sample slack-desc
-SLACKBUILD VERSION: 0.9.2
-SLACKBUILD DOWNLOAD: http://git.zx2c4.com/cgit/snapshot/cgit-0.9.2.tar.xz https://git-core.googlecode.com/files/git-1.8.3.tar.gz
+SLACKBUILD VERSION: 0.10.1
+SLACKBUILD DOWNLOAD: http://git.zx2c4.com/cgit/snapshot/cgit-0.10.1.tar.xz https://git-core.googlecode.com/files/git-1.8.4.tar.gz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: fe11018eff8d79caad112f4fac64b90f d91b6099fb6763cf92c696977a247060
+SLACKBUILD MD5SUM: 060ef0aa95ebda6ea7daf823214bc4d0 355768a1c70d0cb4fedf4b598ac1375b
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  cgit (web frontend for git repositories)
 
@@ -181,30 +181,30 @@ SLACKBUILD SHORT DESCRIPTION:  cssselect (CSS Selectors for Python)
 SLACKBUILD NAME: cssutils
 SLACKBUILD LOCATION: ./cssutils
 SLACKBUILD FILES: README cssutils.SlackBuild cssutils.info slack-desc
-SLACKBUILD VERSION: 0.9.10
-SLACKBUILD DOWNLOAD: http://pypi.python.org/packages/source/c/cssutils/cssutils-0.9.10.zip
+SLACKBUILD VERSION: 1.0
+SLACKBUILD DOWNLOAD: http://pypi.python.org/packages/source/c/cssutils/cssutils-1.0.zip
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 81b5c0294c54479a54548769eaa236f8
+SLACKBUILD MD5SUM: 0c0b9df329ec1461c732d0f3cba05e93
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  cssutils (CSS parser and builder)
 
 SLACKBUILD NAME: cups-filters
 SLACKBUILD LOCATION: ./cups-filters
-SLACKBUILD FILES: README cups-filters.SlackBuild cups-filters.info slack-desc
-SLACKBUILD VERSION: 1.0.41
-SLACKBUILD DOWNLOAD: https://www.openprinting.org/download/cups-filters/cups-filters-1.0.41.tar.xz
+SLACKBUILD FILES: README cups-filters.SlackBuild cups-filters.info doinst.sh slack-desc
+SLACKBUILD VERSION: 1.0.67
+SLACKBUILD DOWNLOAD: https://www.openprinting.org/download/cups-filters/cups-filters-1.0.67.tar.xz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: fe5a9a07b9a64b35975154068cbedef9
+SLACKBUILD MD5SUM: 0a5cfab3736120345c5e254dd2efbe64
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  cups-filters (CUPS backend and filters)
 
 SLACKBUILD NAME: cups
 SLACKBUILD LOCATION: ./cups
-SLACKBUILD FILES: README airprint-support.patch cups.SlackBuild cups.info doinst.sh.gz slack-desc
-SLACKBUILD VERSION: 1.7.0
-SLACKBUILD DOWNLOAD: http://www.cups.org/software/1.7.0/cups-1.7.0-source.tar.bz2
+SLACKBUILD FILES: README airprint-support.patch cups-2.0.2-source.tar.bz2 cups.SlackBuild cups.info doinst.sh.gz slack-desc
+SLACKBUILD VERSION: 2.0.2
+SLACKBUILD DOWNLOAD: http://www.cups.org/software/2.0.2/cups-2.0.2-source.tar.bz2
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 5ab496a2ce27017fcdb3d7ec4818a75a
+SLACKBUILD MD5SUM: 6e0ea72dbafcf5baaa1cf4178e71096d
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  CUPS (Common UNIX Printing System)
 
@@ -221,10 +221,10 @@ SLACKBUILD SHORT DESCRIPTION:  db5 (Berkeley database library version 5.3.x)
 SLACKBUILD NAME: digikam
 SLACKBUILD LOCATION: ./digikam
 SLACKBUILD FILES: README digikam.SlackBuild digikam.info doinst.sh slack-desc
-SLACKBUILD VERSION: 3.5.0
-SLACKBUILD DOWNLOAD: http://download.kde.org/stable/digikam/digikam-3.5.0.tar.bz2
+SLACKBUILD VERSION: 4.1.0
+SLACKBUILD DOWNLOAD: http://download.kde.org/stable/digikam/digikam-4.1.0.tar.bz2
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 16d570269883652487516a77c9d7d6f8
+SLACKBUILD MD5SUM: 6a142b3f7dc81e4d0ccde6d834223cdf
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  digiKam (KDE Photo Management Application)
 
@@ -241,350 +241,130 @@ SLACKBUILD SHORT DESCRIPTION:  dnspython (Python API for DNS)
 SLACKBUILD NAME: dropbox
 SLACKBUILD LOCATION: ./dropbox
 SLACKBUILD FILES: README doinst.sh dropbox.SlackBuild dropbox.desktop dropbox.info dropbox.png slack-desc terms.txt
-SLACKBUILD VERSION: 2.4.6
-SLACKBUILD DOWNLOAD: http://dl-web.dropbox.com/u/17/dropbox-lnx.x86-2.4.6.tar.gz
-SLACKBUILD DOWNLOAD_x86_64: http://dl-web.dropbox.com/u/17/dropbox-lnx.x86_64-2.4.6.tar.gz
-SLACKBUILD MD5SUM: 129048ff25b2ff2151a1d7624bd2eb92
-SLACKBUILD MD5SUM_x86_64: 7e54239b810f17af85cc5f605778ff85
+SLACKBUILD VERSION: 2.6.15
+SLACKBUILD DOWNLOAD: https://dl.dropboxusercontent.com/u/17/dropbox-lnx.x86-2.6.15.tar.gz
+SLACKBUILD DOWNLOAD_x86_64: http://dl-web.dropbox.com/u/17/dropbox-lnx.x86_64-2.6.15.tar.gz
+SLACKBUILD MD5SUM: 40c309593e0c873c0d289357732a2a76
+SLACKBUILD MD5SUM_x86_64: d09cd1ccc32689cdba8740e341d72b9d
 SLACKBUILD SHORT DESCRIPTION:  dropbox (store, sync and share files online)
 
-SLACKBUILD NAME: python-e_dbus
-SLACKBUILD LOCATION: ./python-e_dbus
-SLACKBUILD FILES: README python-e_dbus.SlackBuild python-e_dbus.info slack-desc
-SLACKBUILD VERSION: 1.7.0
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/BINDINGS/python/python-e_dbus-1.7.0.tar.bz2
+SLACKBUILD NAME: dynalogin
+SLACKBUILD LOCATION: ./dynalogin
+SLACKBUILD FILES: README doinst.sh dynalogin.SlackBuild dynalogin.info slack-desc
+SLACKBUILD VERSION: 1.0.0
+SLACKBUILD DOWNLOAD: http://www.dynalogin.org/sites/www.dynalogin.org/files/dynalogin-1.0.0.tar.gz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 40b479444bb06147429a276127981890
+SLACKBUILD MD5SUM: 580b0f3f5827bff06bac8ec8af1b9e50
 SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  Python-e_dbus (Python Binding for e_dbus)
-
-SLACKBUILD NAME: python-ecore
-SLACKBUILD LOCATION: ./python-ecore
-SLACKBUILD FILES: README python-ecore.SlackBuild python-ecore.info slack-desc
-SLACKBUILD VERSION: 1.7.0
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/BINDINGS/python/python-ecore-1.7.0.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 15dd908b71d09ef30f7e758739f3b6fd
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  Python-ecore (Python Binding for Ecore)
-
-SLACKBUILD NAME: python-edje
-SLACKBUILD LOCATION: ./python-edje
-SLACKBUILD FILES: README python-edje.SlackBuild python-edje.info slack-desc
-SLACKBUILD VERSION: 1.7.0
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/BINDINGS/python/python-edje-1.7.0.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 1e0d7a4a4504298caaad0cee476e4edb
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  Python-edje (Python Binding for edje)
-
-SLACKBUILD NAME: python-elementary
-SLACKBUILD LOCATION: ./python-elementary
-SLACKBUILD FILES: README python-elementary.SlackBuild python-elementary.info slack-desc
-SLACKBUILD VERSION: 1.7.0
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/BINDINGS/python/python-elementary-1.7.0.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 38c8b2ac508ab4e1d12f1557a12169c9
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  Python-elementary (Python Binding for elementary)
-
-SLACKBUILD NAME: python-emotion
-SLACKBUILD LOCATION: ./python-emotion
-SLACKBUILD FILES: README python-emotion.SlackBuild python-emotion.info slack-desc
-SLACKBUILD VERSION: 1.7.0
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/BINDINGS/python/python-emotion-1.7.0.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: ac7197ce2617a87fad3dd134a98ad01f
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  Python-emotion (Python Binding for emotion)
-
-SLACKBUILD NAME: python-ethumb
-SLACKBUILD LOCATION: ./python-ethumb
-SLACKBUILD FILES: README python-ethumb.SlackBuild python-ethumb.info slack-desc
-SLACKBUILD VERSION: 1.7.0
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/BINDINGS/python/python-ethumb-1.7.0.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 0745ac56fd4d1b61198c7ae07996f93d
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  Python-ethumb (Python Binding for ethumb)
-
-SLACKBUILD NAME: python-evas
-SLACKBUILD LOCATION: ./python-evas
-SLACKBUILD FILES: README python-evas.SlackBuild python-evas.info slack-desc
-SLACKBUILD VERSION: 1.7.0
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/BINDINGS/python/python-evas-1.7.0.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: c3fda2025171f5e3d2bc224e8bae88e5
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  Python-evas (Python Binding for Evas)
-
-SLACKBUILD NAME: connman
-SLACKBUILD LOCATION: ./connman
-SLACKBUILD FILES: README allow_group_network.diff connman.SlackBuild connman.info doinst.sh rc.connmand slack-desc
-SLACKBUILD VERSION: 1.19
-SLACKBUILD DOWNLOAD: http://www.kernel.org/pub/linux/network/connman/connman-1.19.tar.xz
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 47cce1d17a693dc307e6796c81991bd0
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  connman (Open Source Connection Manager)
-
-SLACKBUILD NAME: e_dbus
-SLACKBUILD LOCATION: ./e_dbus
-SLACKBUILD FILES: README e_dbus.SlackBuild e_dbus.info slack-desc
-SLACKBUILD VERSION: 1.7.9
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/e_dbus-1.7.9.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 713191ea66a4bdacc720a97046f7d0b7
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  E_dbus (one of the Enlightenment DR17 foundation libraries)
-
-SLACKBUILD NAME: econnman
-SLACKBUILD LOCATION: ./econnman
-SLACKBUILD FILES: README doinst.sh econnman.SlackBuild econnman.info slack-desc
-SLACKBUILD VERSION: r5e344be
-SLACKBUILD DOWNLOAD: https://mega.co.nz/#!d4Zn0KST!LEHPFEMe_CvFVH_ZDd-ksjWMMXov0tggt34hQCGCplE
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 4d0505d10c1613cb6e6e6c8d7c83d7dc
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  econnman (E17 ConnMan UI)
-
-SLACKBUILD NAME: ecore
-SLACKBUILD LOCATION: ./ecore
-SLACKBUILD FILES: README ecore.SlackBuild ecore.info slack-desc
-SLACKBUILD VERSION: 1.7.9
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/ecore-1.7.9.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 71423c99d6631393d8307c562c1163ab
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  Ecore (one of the Enlightenment DR17 foundation libraries)
-
-SLACKBUILD NAME: edje
-SLACKBUILD LOCATION: ./edje
-SLACKBUILD FILES: README edje.SlackBuild edje.info slack-desc
-SLACKBUILD VERSION: 1.7.9
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/edje-1.7.9.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 4486344a8c0cd7518148ee635db45820
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  Edje (one of the Enlightenment DR17 foundation libraries)
-
-SLACKBUILD NAME: eet
-SLACKBUILD LOCATION: ./eet
-SLACKBUILD FILES: README eet.SlackBuild eet.info slack-desc
-SLACKBUILD VERSION: 1.7.9
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/eet-1.7.9.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: cb2ba528bda53014439481d51c7c4427
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  Eet (one of the Enlightenment DR17 foundation libraries)
-
-SLACKBUILD NAME: eeze
-SLACKBUILD LOCATION: ./eeze
-SLACKBUILD FILES: README eeze.SlackBuild eeze.info slack-desc
-SLACKBUILD VERSION: 1.7.9
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/eeze-1.7.9.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 94743f4f50682b58e2761bfb5978a48a
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  eeze (one of the Enlightenment DR17 foundation libraries)
-
-SLACKBUILD NAME: efreet
-SLACKBUILD LOCATION: ./efreet
-SLACKBUILD FILES: README efreet.SlackBuild efreet.info slack-desc
-SLACKBUILD VERSION: 1.7.9
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/efreet-1.7.9.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 9efa96905ad5ed613c0fb4fe74af84de
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  Efreet (one of the Enlightenment DR17 foundation libraries)
-
-SLACKBUILD NAME: eina
-SLACKBUILD LOCATION: ./eina
-SLACKBUILD FILES: README eina.SlackBuild eina.info slack-desc
-SLACKBUILD VERSION: 1.7.9
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/eina-1.7.9.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 7850c83e11d0f27a62fd85652d74ce58
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  Eina (one of the Enlightenment DR17 foundation libraries)
-
-SLACKBUILD NAME: eio
-SLACKBUILD LOCATION: ./eio
-SLACKBUILD FILES: README eio.SlackBuild eio.info slack-desc
-SLACKBUILD VERSION: 1.7.9
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/eio-1.7.9.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: d4ce4c9c5882538f5e49ccf963de3595
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  Eio (one of the Enlightenment DR17 foundation libraries)
-
-SLACKBUILD NAME: elementary
-SLACKBUILD LOCATION: ./elementary
-SLACKBUILD FILES: README elementary.SlackBuild elementary.info slack-desc
-SLACKBUILD VERSION: 1.7.9
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/elementary-1.7.9.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: f800b2f7c45598d72a83b5c6188eb41a
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  elementary (one of the Enlightenment DR17 foundation libraries)
-
-SLACKBUILD NAME: embryo
-SLACKBUILD LOCATION: ./embryo
-SLACKBUILD FILES: README embryo.SlackBuild embryo.info slack-desc
-SLACKBUILD VERSION: 1.7.9
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/embryo-1.7.9.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: f62c244cabc97660a40aa11ab9d84ee3
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  Embryo (one of the Enlightenment DR17 foundation libraries)
-
-SLACKBUILD NAME: emotion
-SLACKBUILD LOCATION: ./emotion
-SLACKBUILD FILES: README emotion.SlackBuild emotion.info slack-desc
-SLACKBUILD VERSION: 1.7.9
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/emotion-1.7.9.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 85792e42b44e3af5df56c26c802c29b0
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  emotion (one of the Enlightenment DR17 foundation libraries)
-
-SLACKBUILD NAME: enlightenment
-SLACKBUILD LOCATION: ./enlightenment
-SLACKBUILD FILES: README doinst.sh enlightenment.SlackBuild enlightenment.info slack-desc xinitrc.enlightenment17
-SLACKBUILD VERSION: 0.17.5
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/enlightenment-0.17.5.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 6ba44073b26f85e3a0a053fbaf17b6be
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  Enlightenment DR17 (a window manager and desktop shell)
-
-SLACKBUILD NAME: ethumb
-SLACKBUILD LOCATION: ./ethumb
-SLACKBUILD FILES: README ethumb.SlackBuild ethumb.info slack-desc
-SLACKBUILD VERSION: 1.7.9
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/ethumb-1.7.9.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 4a437bc45c891097056c8af09d3c5ec0
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  ethumb (one of the Enlightenment DR17 foundation libraries)
-
-SLACKBUILD NAME: evas
-SLACKBUILD LOCATION: ./evas
-SLACKBUILD FILES: README evas.SlackBuild evas.info slack-desc
-SLACKBUILD VERSION: 1.7.9
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/evas-1.7.9.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 2d88658779c4cd836d8a3735435d6bb6
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  Evas (one of the Enlightenment DR17 foundation libraries)
+SLACKBUILD SHORT DESCRIPTION:  dynalogin (two-factor authentication)
 
 SLACKBUILD NAME: EFL
 SLACKBUILD LOCATION: ./EFL
 SLACKBUILD FILES: EFL.SlackBuild EFL.info README slack-desc
-SLACKBUILD VERSION: 1.8.2
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/rel/libs/efl/efl-1.8.2.tar.gz
+SLACKBUILD VERSION: 1.13.2
+SLACKBUILD DOWNLOAD: http://download.enlightenment.org/rel/libs/efl/efl-1.13.2.tar.gz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: c50713c4571e8e7efc95ef01f4558e22
+SLACKBUILD MD5SUM: dd779050ccc4ad8d7ae71f2dc8c85855
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  EFL (EFL Core Libraries)
 
 SLACKBUILD NAME: connman
 SLACKBUILD LOCATION: ./connman
 SLACKBUILD FILES: README allow_group_network.diff connman.SlackBuild connman.info doinst.sh rc.connmand slack-desc
-SLACKBUILD VERSION: 1.19
-SLACKBUILD DOWNLOAD: http://www.kernel.org/pub/linux/network/connman/connman-1.19.tar.xz
+SLACKBUILD VERSION: 1.26
+SLACKBUILD DOWNLOAD: http://www.kernel.org/pub/linux/network/connman/connman-1.26.tar.xz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 47cce1d17a693dc307e6796c81991bd0
+SLACKBUILD MD5SUM: ba05b110b7c81e5fa14e8b402ef37a9e
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  connman (Open Source Connection Manager)
 
 SLACKBUILD NAME: e_dbus
 SLACKBUILD LOCATION: ./e_dbus
 SLACKBUILD FILES: README e_dbus.SlackBuild e_dbus.info slack-desc
-SLACKBUILD VERSION: 1.7.9
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/e_dbus-1.7.9.tar.bz2
+SLACKBUILD VERSION: 1.7.10
+SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/e_dbus-1.7.10.tar.bz2
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 713191ea66a4bdacc720a97046f7d0b7
+SLACKBUILD MD5SUM: f91fed0d720b21310c270ea8b0b80565
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  E_dbus (one of the Enlightenment DR17 foundation libraries)
 
 SLACKBUILD NAME: econnman
 SLACKBUILD LOCATION: ./econnman
 SLACKBUILD FILES: README doinst.sh econnman.SlackBuild econnman.info slack-desc
-SLACKBUILD VERSION: r0551b4ccf24b
-SLACKBUILD DOWNLOAD: http://files.slackware-id.org/econnman.tar.xz
+SLACKBUILD VERSION: 1.1
+SLACKBUILD DOWNLOAD: http://download.enlightenment.org/rel/apps/econnman/econnman-1.1.tar.gz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 8a07d6d4ba7607206d59e4d0ada2b521
+SLACKBUILD MD5SUM: 64ccd94e8f2d92a91447566ee2af67e6
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  econnman (E18 ConnMan UI)
 
 SLACKBUILD NAME: elementary
 SLACKBUILD LOCATION: ./elementary
 SLACKBUILD FILES: README doinst.sh elementary.SlackBuild elementary.info slack-desc
-SLACKBUILD VERSION: 1.8.1
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/rel/libs/elementary/elementary-1.8.1.tar.gz
+SLACKBUILD VERSION: 1.13.2
+SLACKBUILD DOWNLOAD: http://download.enlightenment.org/rel/libs/elementary/elementary-1.13.2.tar.gz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 3baca6b93dc0ce7e2f59c7497c0949ad
+SLACKBUILD MD5SUM: 0d32d241af1c96c06da6d130020275f0
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  elementary (toolkit set)
 
 SLACKBUILD NAME: emotion-generic-players
 SLACKBUILD LOCATION: ./emotion-generic-players
 SLACKBUILD FILES: README emotion-generic-players.SlackBuild emotion-generic-players.info slack-desc
-SLACKBUILD VERSION: 1.8.0
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/rel/libs/emotion_generic_players/emotion_generic_players-1.8.0.tar.gz
+SLACKBUILD VERSION: 1.12.0
+SLACKBUILD DOWNLOAD: http://download.enlightenment.org/rel/libs/emotion_generic_players/emotion_generic_players-1.12.0.tar.gz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 466cba6bb3a29b83149102ef47f62a65
+SLACKBUILD MD5SUM: fb67cd4e0c6f13da9cdd864763217a59
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  emotion-generic-players (Video Decoders)
 
 SLACKBUILD NAME: enlightenment
 SLACKBUILD LOCATION: ./enlightenment
-SLACKBUILD FILES: README doinst.sh enlightenment.SlackBuild enlightenment.info slack-desc xinitrc.enlightenment18
-SLACKBUILD VERSION: 0.17.5
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/releases/enlightenment-0.17.5.tar.bz2
+SLACKBUILD FILES: README doinst.sh enlightenment.SlackBuild enlightenment.info slack-desc xinitrc.enlightenment19
+SLACKBUILD VERSION: 0.19.4
+SLACKBUILD DOWNLOAD: http://download.enlightenment.org/rel/apps/enlightenment/enlightenment-0.19.4.tar.gz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 6ba44073b26f85e3a0a053fbaf17b6be
+SLACKBUILD MD5SUM: f442ae743d7f698aeb78d245dbc57357
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  Enlightenment DR18 (a window manager and desktop shell)
 
 SLACKBUILD NAME: evas-generic-loaders
 SLACKBUILD LOCATION: ./evas-generic-loaders
 SLACKBUILD FILES: README evas-generic-loaders.SlackBuild evas-generic-loaders.info slack-desc
-SLACKBUILD VERSION: 1.8.1
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/rel/libs/evas_generic_loaders/evas_generic_loaders-1.8.1.tar.gz
+SLACKBUILD VERSION: 1.13.2
+SLACKBUILD DOWNLOAD: https://download.enlightenment.org/rel/libs/evas_generic_loaders/evas_generic_loaders-1.13.2.tar.xz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 2f39de031a236e53d251beefb4f6fcfd
+SLACKBUILD MD5SUM: 36587792788b2b04adea0ef3723c7b02
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  evas-generic-loaders (Image Decoders)
 
 SLACKBUILD NAME: python-EFL
 SLACKBUILD LOCATION: ./python-EFL
-SLACKBUILD FILES: README python-EFL.SlackBuild python-EFL.info slack-desc
-SLACKBUILD VERSION: 1.8.0
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/rel/bindings/python/python-efl-1.8.0.tar.gz
+SLACKBUILD FILES: README python-EFL.SlackBuild python-EFL.info python-efl-1.12.0.tar.gz slack-desc
+SLACKBUILD VERSION: 1.12.0
+SLACKBUILD DOWNLOAD: http://download.enlightenment.org/rel/bindings/python/python-efl-1.12.0.tar.gz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 58a55193caee3c2c74fd962cc17bc9c1
+SLACKBUILD MD5SUM: 090aa2b22447ea83a1aca9f284ce5288
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  python-EFL (Python Binding for EFL)
 
 SLACKBUILD NAME: terminology
 SLACKBUILD LOCATION: ./terminology
 SLACKBUILD FILES: README doinst.sh slack-desc terminology.SlackBuild terminology.info
-SLACKBUILD VERSION: 0.4.0
-SLACKBUILD DOWNLOAD: http://download.enlightenment.org/rel/apps/terminology/terminology-0.4.0.tar.gz
+SLACKBUILD VERSION: 0.7.0
+SLACKBUILD DOWNLOAD: http://download.enlightenment.org/rel/apps/terminology/terminology-0.7.0.tar.gz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 5a2eee4849d4fa44db4caf743b3beb37
+SLACKBUILD MD5SUM: e68d889f343886e11a8e4f4337486452
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  terminology (terminal emulator)
 
 SLACKBUILD NAME: ecdsa
 SLACKBUILD LOCATION: ./ecdsa
 SLACKBUILD FILES: README ecdsa.SlackBuild ecdsa.info slack-desc
-SLACKBUILD VERSION: 0.10
-SLACKBUILD DOWNLOAD: https://pypi.python.org/packages/source/e/ecdsa/ecdsa-0.10.tar.gz
+SLACKBUILD VERSION: 0.11
+SLACKBUILD DOWNLOAD: https://pypi.python.org/packages/source/e/ecdsa/ecdsa-0.11.tar.gz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: e95941b3bcbf1726472bb724d7478551
+SLACKBUILD MD5SUM: 8ef586fe4dbb156697d756900cb41d7c
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  ecdsa (ECDSA cryptographic signature library)
 
@@ -608,33 +388,33 @@ SLACKBUILD MD5SUM: 067514bb53ff76b81d578676e2048319
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  ettercap (Sniffer Suite)
 
-SLACKBUILD NAME: ffms
-SLACKBUILD LOCATION: ./ffms
-SLACKBUILD FILES: README ffms.SlackBuild ffms.info slack-desc
+SLACKBUILD NAME: ffms2
+SLACKBUILD LOCATION: ./ffms2
+SLACKBUILD FILES: README ffms2.SlackBuild ffms2.info slack-desc
 SLACKBUILD VERSION: 2.19
 SLACKBUILD DOWNLOAD: https://github.com/FFMS/ffms2/archive/2.19.tar.gz
 SLACKBUILD DOWNLOAD_x86_64: 
 SLACKBUILD MD5SUM: 514402714213e02285e55b310be7b4fb
 SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  ffms (a cross-platform wrapper library)
+SLACKBUILD SHORT DESCRIPTION:  ffms2 (a cross-platform wrapper library)
 
 SLACKBUILD NAME: filezilla
 SLACKBUILD LOCATION: ./filezilla
 SLACKBUILD FILES: README doinst.sh filezilla.SlackBuild filezilla.info slack-desc
-SLACKBUILD VERSION: 3.7.3
-SLACKBUILD DOWNLOAD: http://downloads.sourceforge.net/filezilla/FileZilla_3.7.3_src.tar.bz2
+SLACKBUILD VERSION: 3.8.1
+SLACKBUILD DOWNLOAD: http://downloads.sourceforge.net/filezilla/FileZilla_3.8.1_src.tar.bz2
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: df7828739a852ac3adbc1c010303115d
+SLACKBUILD MD5SUM: b4bce64b8db97419cfefa04468afc9fb
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  filezilla (the free FTP solution)
 
 SLACKBUILD NAME: gdl
 SLACKBUILD LOCATION: ./gdl
 SLACKBUILD FILES: README gdl.SlackBuild gdl.info slack-desc
-SLACKBUILD VERSION: 3.8.1
-SLACKBUILD DOWNLOAD: ftp://ftp.gnome.org/pub/gnome/sources/gdl/3.8/gdl-3.8.1.tar.xz
+SLACKBUILD VERSION: 3.12.0
+SLACKBUILD DOWNLOAD: ftp://ftp.gnome.org/pub/gnome/sources/gdl/3.12/gdl-3.12.0.tar.xz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: aff3d2e976d055f6dcaf41069630d497
+SLACKBUILD MD5SUM: e36701e5f0f2eeac2504375fe46aa478
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  gdl (GNOME Docking Library)
 
@@ -668,6 +448,16 @@ SLACKBUILD MD5SUM:
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  gnugo 
 
+SLACKBUILD NAME: gogglesmm
+SLACKBUILD LOCATION: ./gogglesmm
+SLACKBUILD FILES: README doinst.sh gogglesmm.SlackBuild gogglesmm.info slack-desc
+SLACKBUILD VERSION: 0.12.7
+SLACKBUILD DOWNLOAD: http://gogglesmm.googlecode.com/files/gogglesmm-0.12.7.tar.xz
+SLACKBUILD DOWNLOAD_x86_64: 
+SLACKBUILD MD5SUM: c59f004806bdee8cd8c9353729c82262
+SLACKBUILD MD5SUM_x86_64: 
+SLACKBUILD SHORT DESCRIPTION:  gogglesmm (Goggles Music Manager)
+
 SLACKBUILD NAME: google-earth
 SLACKBUILD LOCATION: ./google-earth
 SLACKBUILD FILES: README doinst.sh google-earth-mimetypes.xml google-earth.SlackBuild google-earth.info slack-desc
@@ -678,15 +468,15 @@ SLACKBUILD MD5SUM: c9675d0078d1b188188c9d3b616de6fa
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  google-earth (Google's famous virtual globe)
 
-SLACKBUILD NAME: grive
-SLACKBUILD LOCATION: ./grive
-SLACKBUILD FILES: README grive.SlackBuild grive.info slack-desc
-SLACKBUILD VERSION: 0.2.0
-SLACKBUILD DOWNLOAD: http://www.lbreda.com/grive/_media/packages/0.2.0/grive-0.2.0.tar.gz
+SLACKBUILD NAME: grive2
+SLACKBUILD LOCATION: ./grive2
+SLACKBUILD FILES: README grive2.SlackBuild grive2.info slack-desc
+SLACKBUILD VERSION: git5dc702
+SLACKBUILD DOWNLOAD: https://github.com/vitalif/grive2/archive/5dc7028c8aebb26d35ed31c4b07ac180cc1887c9.zip
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 8260b1e6c0369da35ebcfe8c8f840f2b
+SLACKBUILD MD5SUM: f4e6668e9c4802b6d774fa0eacd3f368
 SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  Grive (Google Drive client)
+SLACKBUILD SHORT DESCRIPTION:  grive2 (Google Drive client)
 
 SLACKBUILD NAME: gtkmm
 SLACKBUILD LOCATION: ./gtkmm
@@ -731,22 +521,12 @@ SLACKBUILD SHORT DESCRIPTION:  gtksourceview (a GTK+ framework for source code e
 SLACKBUILD NAME: guvcview
 SLACKBUILD LOCATION: ./guvcview
 SLACKBUILD FILES: README doinst.sh guvcview.SlackBuild guvcview.info slack-desc
-SLACKBUILD VERSION: 1.7.1
-SLACKBUILD DOWNLOAD: http://downloads.sourceforge.net/project/guvcview/source/guvcview-src-1.7.1.tar.gz
+SLACKBUILD VERSION: 1.7.3
+SLACKBUILD DOWNLOAD: http://downloads.sourceforge.net/project/guvcview/source/guvcview-src-1.7.3.tar.gz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 5ca1b9c89d2b9370ee203dcc24efd695
+SLACKBUILD MD5SUM: f9c510ed9908a8d20ca27099aca948a7
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  guvcview (GTK+ UVC Viewer)
-
-SLACKBUILD NAME: harfbuzz
-SLACKBUILD LOCATION: ./harfbuzz
-SLACKBUILD FILES: README harfbuzz.SlackBuild harfbuzz.info slack-desc
-SLACKBUILD VERSION: 0.9.23
-SLACKBUILD DOWNLOAD: http://www.freedesktop.org/software/harfbuzz/release/harfbuzz-0.9.22.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: a4a9b548577e2ee22f0887937da5fd6c
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  harfbuzz (OpenType text shaping engine)
 
 SLACKBUILD NAME: httperf
 SLACKBUILD LOCATION: ./httperf
@@ -758,6 +538,16 @@ SLACKBUILD MD5SUM: 2968c36b9ecf3d98fc1f2c1c9c0d9341
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  httperf (http load generator)
 
+SLACKBUILD NAME: hub
+SLACKBUILD LOCATION: ./hub
+SLACKBUILD FILES: README hub.SlackBuild hub.info slack-desc
+SLACKBUILD VERSION: 1.12.0
+SLACKBUILD DOWNLOAD: https://rubygems.org/downloads/hub-1.12.0.gem
+SLACKBUILD DOWNLOAD_x86_64: 
+SLACKBUILD MD5SUM: 868c3e43268677739fbd922c68d38c55
+SLACKBUILD MD5SUM_x86_64: 
+SLACKBUILD SHORT DESCRIPTION:  hub (github helper)
+
 SLACKBUILD NAME: insync-kde
 SLACKBUILD LOCATION: ./insync-kde
 SLACKBUILD FILES: README doinst.sh insync-kde.SlackBuild insync-kde.info slack-desc
@@ -767,16 +557,6 @@ SLACKBUILD DOWNLOAD_x86_64: http://s.insynchq.com/builds/insync-beta-kde_0.9.41_
 SLACKBUILD MD5SUM: d2e6e54b3952d5e3551632a5f27cd79b
 SLACKBUILD MD5SUM_x86_64: 0fd0261e9b44c1100684c656d99654f1
 SLACKBUILD SHORT DESCRIPTION:  insync (Google Drive Client)
-
-SLACKBUILD NAME: itstool
-SLACKBUILD LOCATION: ./itstool
-SLACKBUILD FILES: README itstool.SlackBuild itstool.info slack-desc
-SLACKBUILD VERSION: 1.2.0
-SLACKBUILD DOWNLOAD: http://files.itstool.org/itstool/itstool-1.2.0.tar.bz2
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: c0925f6869e33af8e7fe56848c129152
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  itstool (Translate XML documents with PO files)
 
 SLACKBUILD NAME: json-c
 SLACKBUILD LOCATION: ./json-c
@@ -830,11 +610,11 @@ SLACKBUILD SHORT DESCRIPTION:  libdc1394 (1394-Based Digital Camera Control Libr
 
 SLACKBUILD NAME: libgda
 SLACKBUILD LOCATION: ./libgda
-SLACKBUILD FILES: README libgda.SlackBuild libgda.info slack-desc
-SLACKBUILD VERSION: 5.2.1
-SLACKBUILD DOWNLOAD: http://ftp.gnome.org/pub/GNOME/sources/libgda/5.2/libgda-5.2.1.tar.xz
+SLACKBUILD FILES: README doinst.sh libgda.SlackBuild libgda.info slack-desc
+SLACKBUILD VERSION: 5.2.2
+SLACKBUILD DOWNLOAD: http://ftp.gnome.org/pub/GNOME/sources/libgda/5.2/libgda-5.2.2.tar.xz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: b42958a36765183ecce1926e40067ffd
+SLACKBUILD MD5SUM: d2676630e621ddf5db6e336e62c23742
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  libgda (GNOME DB)
 
@@ -871,10 +651,10 @@ SLACKBUILD SHORT DESCRIPTION:  libnet (Packet Construction Library)
 SLACKBUILD NAME: libpgf
 SLACKBUILD LOCATION: ./libpgf
 SLACKBUILD FILES: README libpgf.SlackBuild libpgf.info slack-desc
-SLACKBUILD VERSION: 6.12.24
-SLACKBUILD DOWNLOAD: http://ncu.dl.sourceforge.net/project/libpgf/libpgf/6.12.24-latest/libpgf-6.12.24-src.tar.gz
+SLACKBUILD VERSION: 6.14.12
+SLACKBUILD DOWNLOAD: http://sourceforge.net/projects/libpgf/files/libpgf/6.14.12-latest/libpgf-src-6.14.12.tar.gz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 49ae25a63804273f0c6875f477b5f6d2
+SLACKBUILD MD5SUM: a2b13832e23ad9026bd249d57b6c26da
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  libpgf (Image file format)
 
@@ -908,6 +688,16 @@ SLACKBUILD MD5SUM: 99467ca2cb81c19c4a172de9f30e7576
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  libusbx (USB library)
 
+SLACKBUILD NAME: libwebp
+SLACKBUILD LOCATION: ./libwebp
+SLACKBUILD FILES: README libwebp.SlackBuild libwebp.info slack-desc
+SLACKBUILD VERSION: 0.4.0
+SLACKBUILD DOWNLOAD: https://webp.googlecode.com/files/libwebp-0.4.0.tar.gz
+SLACKBUILD DOWNLOAD_x86_64: 
+SLACKBUILD MD5SUM: c8dd1d26eb9566833aba269b86d97e68
+SLACKBUILD MD5SUM_x86_64: 
+SLACKBUILD SHORT DESCRIPTION:  libwebp (WebP Library and Tools)
+
 SLACKBUILD NAME: lua
 SLACKBUILD LOCATION: ./lua
 SLACKBUILD FILES: README lua.SlackBuild lua.info slack-desc
@@ -921,10 +711,10 @@ SLACKBUILD SHORT DESCRIPTION:  Lua (a powerful, fast, light-weight, embeddable s
 SLACKBUILD NAME: lxml
 SLACKBUILD LOCATION: ./lxml
 SLACKBUILD FILES: README lxml.SlackBuild lxml.info slack-desc
-SLACKBUILD VERSION: 3.2.3
-SLACKBUILD DOWNLOAD: http://pypi.python.org/packages/source/l/lxml/lxml-3.2.3.tar.gz
+SLACKBUILD VERSION: 3.3.4
+SLACKBUILD DOWNLOAD: http://pypi.python.org/packages/source/l/lxml/lxml-3.3.4.tar.gz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: fef47bb4ac72ac38ce778518dac42236
+SLACKBUILD MD5SUM: 79e7b190563bf280c50ec20087f40dfa
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  lxml (Python bindings for the libxml2 and libxslt)
 
@@ -961,10 +751,10 @@ SLACKBUILD SHORT DESCRIPTION: mysql-connector-c++: mysql-connector-c++ (MySQL Co
 SLACKBUILD NAME: mysql-workbench
 SLACKBUILD LOCATION: ./mysql-workbench
 SLACKBUILD FILES: README config_and_ifconfig_paths.patch doinst.sh mysql-workbench.SlackBuild mysql-workbench.info slack-desc
-SLACKBUILD VERSION: 6.0.8
-SLACKBUILD DOWNLOAD: http://www.mirrorservice.org/sites/ftp.mysql.com/Downloads/MySQLGUITools/mysql-workbench-community-6.0.8-src.tar.gz
+SLACKBUILD VERSION: 6.1.7
+SLACKBUILD DOWNLOAD: http://www.mirrorservice.org/sites/ftp.mysql.com/Downloads/MySQLGUITools/mysql-workbench-community-6.1.7-src.tar.gz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: a772c8c0549c57c34d2cf76c00353472
+SLACKBUILD MD5SUM: ac059e239869fb77bf5d7a1f5845a8af
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  mysql-workbench - MySQL Workbench (GUI Tool)
 
@@ -978,15 +768,35 @@ SLACKBUILD MD5SUM: d79e6dde6ec3acd3f973f8469746df25
 SLACKBUILD MD5SUM_x86_64: d3f98f571cc80155313b13e708f23e48
 SLACKBUILD SHORT DESCRIPTION:  nixnote (Open Source Client for Evernote)
 
+SLACKBUILD NAME: oath-toolkit
+SLACKBUILD LOCATION: ./oath-toolkit
+SLACKBUILD FILES: README oath-toolkit.SlackBuild oath-toolkit.info slack-desc
+SLACKBUILD VERSION: 2.4.1
+SLACKBUILD DOWNLOAD: http://download.savannah.gnu.org/releases/oath-toolkit/oath-toolkit-2.4.1.tar.gz
+SLACKBUILD DOWNLOAD_x86_64: 
+SLACKBUILD MD5SUM: 951bafd1d86e6013903c10be3b6623bb
+SLACKBUILD MD5SUM_x86_64: 
+SLACKBUILD SHORT DESCRIPTION:  oath-toolkit (OTP Authentication System)
+
 SLACKBUILD NAME: opencv
 SLACKBUILD LOCATION: ./opencv
-SLACKBUILD FILES: README fsh.patch opencv.SlackBuild opencv.info slack-desc
-SLACKBUILD VERSION: 2.4.7
-SLACKBUILD DOWNLOAD: http://downloads.sourceforge.net/opencvlibrary/opencv-2.4.7.tar.gz
+SLACKBUILD FILES: README opencv-2.4.9-fsh.patch opencv-2.4.9-pkgconfig.patch opencv.SlackBuild opencv.info slack-desc
+SLACKBUILD VERSION: 2.4.9
+SLACKBUILD DOWNLOAD: https://github.com/Itseez/opencv/archive/2.4.9.tar.gz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 33a12a8bba6e6dc32c97298c99b083b2
+SLACKBUILD MD5SUM: cc0a8307403ff471f554197401ec0eb9
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  OpenCV (Open Source Computer Vision)
+
+SLACKBUILD NAME: pam
+SLACKBUILD LOCATION: ./pam
+SLACKBUILD FILES: README pam-1.1.8-cve-2013-7041.patch pam-1.1.8-cve-2014-2583.patch pam.SlackBuild pam.info slack-desc
+SLACKBUILD VERSION: 1.1.8
+SLACKBUILD DOWNLOAD: http://www.linux-pam.org/library/Linux-PAM-1.1.8.tar.bz2
+SLACKBUILD DOWNLOAD_x86_64: 
+SLACKBUILD MD5SUM: 35b6091af95981b1b2cd60d813b5e4ee
+SLACKBUILD MD5SUM_x86_64: 
+SLACKBUILD SHORT DESCRIPTION:  pam (Pluggable Authentication Modules)
 
 SLACKBUILD NAME: pangomm
 SLACKBUILD LOCATION: ./pangomm
@@ -1041,10 +851,10 @@ SLACKBUILD SHORT DESCRIPTION:  pycrypto (Python Cryptography Toolkit)
 SLACKBUILD NAME: qpdf
 SLACKBUILD LOCATION: ./qpdf
 SLACKBUILD FILES: README qpdf.SlackBuild qpdf.info slack-desc
-SLACKBUILD VERSION: 5.0.1
-SLACKBUILD DOWNLOAD: http://downloads.sourceforge.net/qpdf/qpdf-5.0.1.tar.gz
+SLACKBUILD VERSION: 5.1.2
+SLACKBUILD DOWNLOAD: http://downloads.sourceforge.net/qpdf/qpdf-5.1.2.tar.gz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 6efd89c18461cb73f77bb60cb2da4bce
+SLACKBUILD MD5SUM: 0bd15ef5eea5f628951ab456c84e78ec
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  qpdf (Command-line tools and library for transforming PDF files)
 
@@ -1111,17 +921,17 @@ SLACKBUILD SHORT DESCRIPTION:  Sysprof (Performance Profiler)
 SLACKBUILD NAME: teamviewer
 SLACKBUILD LOCATION: ./teamviewer
 SLACKBUILD FILES: README doinst.sh rc.teamviewerd slack-desc teamviewer.SlackBuild teamviewer.info
-SLACKBUILD VERSION: 9.0.24147
+SLACKBUILD VERSION: 9.0.30203
 SLACKBUILD DOWNLOAD: http://download.teamviewer.com/download/teamviewer_linux.deb
 SLACKBUILD DOWNLOAD_x86_64: http://download.teamviewer.com/download/teamviewer_linux_x64.deb
-SLACKBUILD MD5SUM: 30ef9747757fec507a489bff34698c0e
-SLACKBUILD MD5SUM_x86_64: ab46126b05e523479b53d576254f5a43
+SLACKBUILD MD5SUM: 377f2d47d11d7c0c664ed8b21dc188a8
+SLACKBUILD MD5SUM_x86_64: decce9d21dbf99d508bb40c9a706e837
 SLACKBUILD SHORT DESCRIPTION:  teamviewer (remote control application)
 
 SLACKBUILD NAME: tlp
 SLACKBUILD LOCATION: ./tlp
 SLACKBUILD FILES: README slack-desc tlp.SlackBuild tlp.info
-SLACKBUILD VERSION: 0.4
+SLACKBUILD VERSION: 0.5
 SLACKBUILD DOWNLOAD: GIT
 SLACKBUILD DOWNLOAD_x86_64: 
 SLACKBUILD MD5SUM: 
@@ -1131,10 +941,10 @@ SLACKBUILD SHORT DESCRIPTION:  tlp (advanced power management tool)
 SLACKBUILD NAME: vala
 SLACKBUILD LOCATION: ./vala
 SLACKBUILD FILES: README slack-desc vala.SlackBuild vala.info
-SLACKBUILD VERSION: 0.22.0
-SLACKBUILD DOWNLOAD: http://ftp.gnome.org/pub/GNOME/sources/vala/0.22/vala-0.22.0.tar.xz
+SLACKBUILD VERSION: 0.24.0
+SLACKBUILD DOWNLOAD: http://ftp.gnome.org/pub/GNOME/sources/vala/0.24/vala-0.24.0.tar.xz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: a2a98f00efcc97a589d4b960544ed55c
+SLACKBUILD MD5SUM: beddeff9c06d3c278988b237da0e7401
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  Vala (Compiler for the GObject type system)
 
@@ -1171,22 +981,12 @@ SLACKBUILD SHORT DESCRIPTION: vsqlite++: vsqlite++ (SQLite Wrapper Library)
 SLACKBUILD NAME: vte3
 SLACKBUILD LOCATION: ./vte3
 SLACKBUILD FILES: README fix_meta_alt_keybinding.patch.gz slack-desc vte3.SlackBuild vte3.info
-SLACKBUILD VERSION: 0.34.9
-SLACKBUILD DOWNLOAD: http://ftp.gnome.org/pub/GNOME/sources/vte/0.34/vte-0.34.9.tar.xz
+SLACKBUILD VERSION: 0.36.3
+SLACKBUILD DOWNLOAD: http://ftp.gnome.org/pub/GNOME/sources/vte/0.36/vte-0.36.3.tar.xz
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: cb2f3cd4889581dcb61ab6db40bee542
+SLACKBUILD MD5SUM: 3f9df4c9a67b09bf5c660bf5c3bae109
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  vte3 (terminal emulator widget)
-
-SLACKBUILD NAME: webp
-SLACKBUILD LOCATION: ./webp
-SLACKBUILD FILES: README slack-desc webp.SlackBuild webp.info
-SLACKBUILD VERSION: 0.3.1
-SLACKBUILD DOWNLOAD: https://webp.googlecode.com/files/libwebp-0.3.1.tar.gz
-SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: dc862bb4006d819b7587767a9e83d31f
-SLACKBUILD MD5SUM_x86_64: 
-SLACKBUILD SHORT DESCRIPTION:  webp (WebP Library and Tools)
 
 SLACKBUILD NAME: wesnoth
 SLACKBUILD LOCATION: ./wesnoth
@@ -1201,10 +1001,10 @@ SLACKBUILD SHORT DESCRIPTION:  Wesnoth (The Battle for Wesnoth)
 SLACKBUILD NAME: wireshark
 SLACKBUILD LOCATION: ./wireshark
 SLACKBUILD FILES: README doinst.sh slack-desc wireshark.SlackBuild wireshark.info
-SLACKBUILD VERSION: 1.11.0
-SLACKBUILD DOWNLOAD: http://wiresharkdownloads.riverbed.com/wireshark/src/wireshark-1.11.0.tar.bz2
+SLACKBUILD VERSION: 1.12.7
+SLACKBUILD DOWNLOAD: https://1.as.dl.wireshark.org/src/wireshark-1.12.7.tar.bz2
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: ffa7721cfd1c136718d9e08e09590c5e
+SLACKBUILD MD5SUM: c8ae53f648b1dcbf6e74495401a0f1ab
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  WireShark (packet sniffer and protocol analyzer)
 
@@ -1221,10 +1021,10 @@ SLACKBUILD SHORT DESCRIPTION:  wxGTK (cross-platform GUI toolkit)
 SLACKBUILD NAME: wxGTK3
 SLACKBUILD LOCATION: ./wxGTK3
 SLACKBUILD FILES: README slack-desc wxGTK3.SlackBuild wxGTK3.info
-SLACKBUILD VERSION: 3.0.0
-SLACKBUILD DOWNLOAD: http://sourceforge.net/projects/wxwindows/files/3.0.0/wxWidgets-3.0.0.tar.bz2
+SLACKBUILD VERSION: 3.0.1
+SLACKBUILD DOWNLOAD: http://sourceforge.net/projects/wxwindows/files/3.0.1/wxWidgets-3.0.1.tar.bz2
 SLACKBUILD DOWNLOAD_x86_64: 
-SLACKBUILD MD5SUM: 241998efc12205172ed24c18788ea2cd
+SLACKBUILD MD5SUM: dad1f1cd9d4c370cbc22700dc492da31
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  wxGTK3 (cross-platform GUI toolkit)
 
@@ -1237,4 +1037,14 @@ SLACKBUILD DOWNLOAD_x86_64:
 SLACKBUILD MD5SUM: 486d029bd81071a2d04e7181909b1602
 SLACKBUILD MD5SUM_x86_64: 
 SLACKBUILD SHORT DESCRIPTION:  xchm (viewer for .chm files)
+
+SLACKBUILD NAME: xmlsec
+SLACKBUILD LOCATION: ./xmlsec
+SLACKBUILD FILES: README slack-desc xmlsec.SlackBuild xmlsec.info
+SLACKBUILD VERSION: 1.2.20
+SLACKBUILD DOWNLOAD: http://www.aleksey.com/xmlsec/download/xmlsec1-1.2.20.tar.gz
+SLACKBUILD DOWNLOAD_x86_64: 
+SLACKBUILD MD5SUM: ce12af00283eb90d9281956524250d6e
+SLACKBUILD MD5SUM_x86_64: 
+SLACKBUILD SHORT DESCRIPTION:  xmlsec (C library based on LibXML2)
 
